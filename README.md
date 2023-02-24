@@ -24,3 +24,5 @@
 
 ## Базы данных
 
+* [Виды баз данных](https://selectel.ru/blog/databases-types/)
+
