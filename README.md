@@ -6,19 +6,23 @@
 
 ## Базовые знания
 
-[Фундаментальная теория тестирования](https://habr.com/ru/post/549054/)
+* [Фундаментальная теория тестирования](https://habr.com/ru/post/549054/)
 
-[http протокол](https://ru.wikipedia.org/wiki/HTTP)
+* [http протокол](https://ru.wikipedia.org/wiki/HTTP)
 
-[Курс по python от stepik](https://stepik.org/course/67/syllabus)
+* [Курс по python от stepik](https://stepik.org/course/67/syllabus)
+
+* [Поговорим о нагрузочном тестировании](https://habr.com/ru/company/veeam/blog/578942/)
+
+* [Виды тестирования производительности](https://software-testing.ru/library/testing/performance-testing/3444-thoughts-performance-testing-types)
 
 ## Инструменты написания скриптов
 
-[jmeter - официальный сайт](https://jmeter.apache.org/)
+* [jmeter - официальный сайт](https://jmeter.apache.org/)
 
-[gatling - официальный сайт](https://gatling.io/)
+* [gatling - официальный сайт](https://gatling.io/)
 
-[k6.io - официальный сайт](https://k6.io/)
+* [k6.io - официальный сайт](https://k6.io/)
 
 ## Базы данных
 
