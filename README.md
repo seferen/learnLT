@@ -11,6 +11,7 @@
 
 * [Фундаментальная теория тестирования](https://habr.com/ru/post/549054/)
 * [http протокол](https://ru.wikipedia.org/wiki/HTTP)
+* [http запросы](https://selectel.ru/blog/http-request/)
 * [Курс по python от stepik](https://stepik.org/course/67/syllabus)
 * [Поговорим о нагрузочном тестировании](https://habr.com/ru/company/veeam/blog/578942/)
 * [Виды тестирования производительности](https://software-testing.ru/library/testing/performance-testing/3444-thoughts-performance-testing-types)
