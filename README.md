@@ -16,6 +16,9 @@
 * [Поговорим о нагрузочном тестировании](https://habr.com/ru/company/veeam/blog/578942/)
 * [Виды тестирования производительности](https://software-testing.ru/library/testing/performance-testing/3444-thoughts-performance-testing-types)
 * [Стенд для нагрузочного тестирования: от DEV до PROD](https://habr.com/ru/company/rtlabs/blog/577580/)
+### linux
+
+* [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
 
 ## Инструменты написания скриптов
 
