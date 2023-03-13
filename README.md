@@ -20,6 +20,10 @@
 
 * [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
 
+## Сети
+
+* [Объяснение работы сетевых портов на английском](https://www.youtube.com/watch?v=g2fT-g9PX9o)
+
 ## Инструменты написания скриптов
 
 * [jmeter - официальный сайт](https://jmeter.apache.org/)
